@@ -5,7 +5,7 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,github,vscode,)](https://skillicons.dev)
 
 # 💡 About Me:
-🌱 I’m currently working on my Tech Startup<br>🤝 I’m looking to collaborate on open source Projects<br>🔧 I’m looking for help with Backend<br>🎓 I’m currently learning jQuery<br>📝 Feel free to reach out: andrijevicsinisa2006@gmail.com<br>✍️  In my free time, I pursue Graphic Design and photography.<br>:computer: Most used line of code - `npm start`
+🌱 I’m currently working on my Tech Startup<br>🤝 I’m looking to collaborate on open source Projects<br>🔧 I’m looking for help with Backend<br>🎓 I’m currently learning Python<br>📝 Feel free to reach out: andrijevicsinisa2006@gmail.com<br>✍️  In my free time, I pursue Graphic Design and photography.<br>:computer: Most used line of code - `npm start`
 
 
 ## 🌐 Socials:
