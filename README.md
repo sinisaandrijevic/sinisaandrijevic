@@ -40,5 +40,3 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
 </p>
 <br/><br/>
 -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
