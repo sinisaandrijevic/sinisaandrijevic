@@ -1,6 +1,6 @@
 # Hello world!
 
-I'm Siniša Andrijević, a Full Stack Web Developer and Entrepreneur. I Spend most of the time coding innovative projects or traveling.
+I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the time coding innovative projects or traveling.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,github,vscode,)](https://skillicons.dev)
 
