@@ -12,16 +12,16 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
 <p align="left">
 <br/>
 <a href="https://www.linkedin.com/">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+  <img alt="sinisa's LinkdeIN" width="50px" src="./social-images/linkedin.png" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sinisaa___">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+  <img alt="sinisa's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
 </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
+<a href="https://www.discord.com/">
+  <img alt="sinisa's Discord" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
 </a>&nbsp;&nbsp;
- <a href="https://twitter.com/">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
+ <a href="https://facebook.com/">
+  <img alt="sinisa's Facebook" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
 </a>&nbsp;&nbsp;
 </p>
 
