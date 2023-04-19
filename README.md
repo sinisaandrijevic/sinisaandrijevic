@@ -12,7 +12,7 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
 <p align="left">
 <br/>
 <a href="https://www.linkedin.com/">
-  <img alt="sinisa's LinkdeIN" width="50px" src="../social-images/linkedin.png" />
+  <img alt="sinisa's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sinisaa___">
   <img alt="sinisa's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
