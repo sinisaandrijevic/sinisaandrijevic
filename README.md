@@ -18,10 +18,10 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
   <img alt="sinisa's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
 </a>&nbsp;&nbsp;
 <a href="https://www.discord.com/">
-  <img alt="sinisa's Discord" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
+  <img alt="sinisa's Discord" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
 </a>&nbsp;&nbsp;
  <a href="https://facebook.com/">
-  <img alt="sinisa's Facebook" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
+  <img alt="sinisa's Facebook" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
 </a>&nbsp;&nbsp;
 </p>
 
