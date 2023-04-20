@@ -9,6 +9,7 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
 
 
 ## 🌐 Socials:
+<!-- linkedin instagram discord website -->
 <p align="left">
 <br/>
 <a href="https://www.linkedin.com/in//sinisaandrijevic">
