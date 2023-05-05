@@ -13,16 +13,21 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
 <p align="left">
 <br/>
 <a href="https://www.linkedin.com/in//sinisaandrijevic">
-  <img alt="sinisa's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+  <img alt="sinisa's LinkdeIN" width="50px" src="![linkedin](https://user-images.githubusercontent.com/75179259/236415578-a58b019c-1aa7-493d-afce-923737aa159b.png)
+" />
 </a>&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/sinisaa___">
-  <img alt="sinisa's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+  <img alt="sinisa's Instagram" width="50px" src="![instagram](https://user-images.githubusercontent.com/75179259/236415649-06c4c2cf-fc4e-477d-ad78-c648914464a0.png)
+" />
 </a>&nbsp;&nbsp;
-<a href="https://www.twitter.com/">
-  <img alt="sinisa's Discord" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
+<a href="[https://www.twitter.com/](https://discordapp.com/users/365833715231752203)">
+  <img alt="sinisa's Discord" width="50px" src="![discord](https://user-images.githubusercontent.com/75179259/236415690-1d60a392-b691-44d6-9dd1-c8fb3a7e2711.png)
+" />
 </a>&nbsp;&nbsp;
- <a href="https://facebook.com/">
-  <img alt="sinisa's Facebook" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
+ <a href="https://google.com/">
+  <img alt="sinisa's Gmail" width="50px" src="![email](https://user-images.githubusercontent.com/75179259/236415714-0f19c44b-4cf8-42d4-a5b9-e476a5864b9f.png)
+" />
 </a>&nbsp;&nbsp;
 </p>
 
