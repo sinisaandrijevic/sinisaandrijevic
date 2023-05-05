@@ -19,11 +19,11 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
 <a href="https://www.instagram.com/sinisaa___">
   <img alt="sinisa's Instagram" width="50px" src="https://user-images.githubusercontent.com/75179259/236415649-06c4c2cf-fc4e-477d-ad78-c648914464a0.png" />
 </a>&nbsp;&nbsp;
-<a href="[https://www.twitter.com/](https://discordapp.com/users/365833715231752203)">
+<a href="https://discordapp.com/users/365833715231752203">
   <img alt="sinisa's Discord" width="50px" src="https://user-images.githubusercontent.com/75179259/236415690-1d60a392-b691-44d6-9dd1-c8fb3a7e2711.png" />
 </a>&nbsp;&nbsp;
  <a href="https://google.com/">
-  <img alt="sinisa's Gmail" width="50px" src="https://user-images.githubusercontent.com/75179259/236415714-0f19c44b-4cf8-42d4-a5b9-e476a5864b9f.png" />
+  <img alt="sinisa's Website" width="50px" src="https://user-images.githubusercontent.com/75179259/236422329-9b964c4b-5d26-4ea6-b1f6-92492a841ea6.png" />
 </a>&nbsp;&nbsp;
 </p>
 
