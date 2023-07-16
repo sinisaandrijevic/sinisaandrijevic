@@ -16,7 +16,7 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
   <img alt="sinisa's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/75179259/236415578-a58b019c-1aa7-493d-afce-923737aa159b.png" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/sinisaa___">
+<a href="https://www.instagram.com/sinisaandrijevicofficial">
   <img alt="sinisa's Instagram" width="50px" src="https://user-images.githubusercontent.com/75179259/236415649-06c4c2cf-fc4e-477d-ad78-c648914464a0.png" />
 </a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/365833715231752203">
