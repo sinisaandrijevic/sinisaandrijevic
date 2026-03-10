@@ -12,7 +12,7 @@ I'm Siniša, a Full Stack Web Developer and Entrepreneur. I Spend most of the ti
 <!-- linkedin instagram discord website -->
 <p align="left">
 <br/>
-<a href="https://www.linkedin.com/in//sinisaandrijevic">
+<a href="https://www.linkedin.com/in/sinisaandrijevic">
   <img alt="sinisa's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/75179259/236415578-a58b019c-1aa7-493d-afce-923737aa159b.png" />
 </a>&nbsp;&nbsp;
 
