@@ -52,6 +52,3 @@ Currently leading the development of ServeSmart — a SaaS platform aimed at imp
 </a>&nbsp;&nbsp;
 
 </p>
-
-<br/>
-<br/>
