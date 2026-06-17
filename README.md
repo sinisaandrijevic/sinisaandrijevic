@@ -5,7 +5,7 @@ Senior Full-Stack Software Engineer | Founder of [ServeSmart](https://servesmart
 I am a full-stack software engineer specializing in scalable SaaS platforms, internal automation systems, and modern web applications, with a strong focus on performance-oriented backend services, real-time features, and production-grade cloud deployments.
 
 
-Currently leading the development of ServeSmart — a SaaS platform aimed at improving operational efficiency and staff training workflows in the restaurant industry, while also working as a Digital Banking Specialist at Raiffeisen Bank with a primary focus on Quality Assurance, including test automation, system validation, and ensuring the reliability of digital banking platforms.
+Currently leading the development of ServeSmart — a SaaS platform aimed at improving operational efficiency and staff training workflows in the restaurant industry, while also working as a Digital Banking IT Solutions QA Specialist at Raiffeisen Bank with a primary focus on Quality Assurance, including test automation, system validation, and ensuring the reliability of digital banking platforms.
 
 ---
 
